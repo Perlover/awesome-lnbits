@@ -115,6 +115,7 @@ Awesome extensions and projects built on LNBits.
 - [PlebTag](https://plebtag.com/) - Customized NFC cards and badges.
 - [Lightsats](https://lightsats.com/) - Onboarding newbies to bitcoin using tips.
 - [Lightning Cats](https://lightningcats.org/) - Send sats to switch on things for cats.
+- [LNFeed.ME](https://lnfeed.me/) - Candy dispenser built on BitcoinSwitch and LNURLDevice exstnsion.
 
 #### Wordpress
 - [LNbits – Bitcoin Onchain and Lightning Payment Gateway](https://wordpress.org/plugins/lnbits-bitcoin-onchain-and-lightning-payment-gateway/) - Official LNbits Woocommerce plugin
